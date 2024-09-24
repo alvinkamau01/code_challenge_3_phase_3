@@ -1,21 +1,5 @@
 # Concerts Application
 
-## Setup
-
-1. Install dependencies:
-
-    ```bash
-    pip install sqlalchemy alembic
-    ```
-
-2. Initialize the database:
-
-    ```bash
-    alembic upgrade head
-    ```
-
-## Usage
-
 ### Models
 
 - `Band`: Represents a musical band.
